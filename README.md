@@ -1,7 +1,7 @@
 # NOTE
 N-OS is currently under development from the ground up, expect hiccups!
 
-# N-OS
+# nOs
 An open source unix operating system with a microkernel to back it up!
 
 ## About
